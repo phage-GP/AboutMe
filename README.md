@@ -1,5 +1,11 @@
 ### Hi! 澄心 👋
 
+### Related work
+
++ antibody design
++ feature selection in ML
++ causal inference
++ MLOps
 
 ### My Social Media 😺
 + website: [phage-GP.github.io](https://phage-gp.github.io/)
